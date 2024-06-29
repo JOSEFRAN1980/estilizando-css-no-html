@@ -1,0 +1,51 @@
+html{
+
+    background-color: rgb(139, 212, 172);
+}
+
+ol{
+
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+}
+
+li[value="1"] {
+    color: aqua;
+}
+
+.note{
+    font-size: 20px;
+}
+
+#id-selector{
+    color: rgb(221, 22, 22);
+}
+
+li[value="4"] {
+    color: rgba(62, 7, 112, 0.432);
+}
+
+html{
+    text-align: center;
+}
+
+p{
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+    font-size: 20px;
+
+}
+
+#one{
+    margin-top: -20px;
+    color: blueviolet;
+}
+
+#two{
+    margin-top: -20px;
+    color: rgb(148, 79, 15);
+}
+
+
